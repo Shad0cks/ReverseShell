@@ -1,5 +1,5 @@
 # Reverse Shell
-MacOS / Linux reverse shell ready to send.\
+MacOS / Linux reverse shell.\
 VIRUS ready to send with virus.sh
 
 ## Authors
