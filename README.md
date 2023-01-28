@@ -1,6 +1,6 @@
 # Reverse Shell
 MacOS / Linux reverse shell.\
-VIRUS ready to send with virus.sh
+Rat ready to be send with virus.sh
 
 ## Authors
 
