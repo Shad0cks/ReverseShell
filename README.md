@@ -27,3 +27,5 @@ Change IP and PORT\
 Compile main.c\
 Upload Binary on online server\
 Change link on virus.sh and it's ready to send 
+
+https://discord.com/channels/801445366213902407/801445366649847869/1068564491001937952
